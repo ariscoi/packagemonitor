@@ -5,7 +5,7 @@ WORK_DIR="/var/lib/packagemonitor"
 
 # Verifica daca directorul există
 if [ ! -d "$WORK_DIR" ]; then
-    echo "Directorul de lucru nu există: $WORK_DIR"
+    echo "Directorul de lucru nu exista: $WORK_DIR"
     exit 1
 fi
 
