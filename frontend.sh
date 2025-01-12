@@ -10,10 +10,10 @@ fi
 
 # Meniu principal
 echo "1. Lista pachetelor instalate curent"
-echo "2. Lista pachetelor șterse"
+echo "2. Lista pachetelor sterse"
 echo "3. Istoricul unui pachet"
 echo "4. Operații dintr-un interval de timp"
-echo -n "Alege opțiunea: "
+echo -n "Alege optiunea: "
 read OPTION
 
 case $OPTION in
