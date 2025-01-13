@@ -12,7 +12,7 @@ fi
 echo "1. Lista pachetelor instalate curent"
 echo "2. Lista pachetelor sterse"
 echo "3. Istoricul unui pachet"
-echo "4. Operații dintr-un interval de timp"
+echo "4. Operatii dintr-un interval de timp"
 echo -n "Alege optiunea: "
 read OPTION
 
